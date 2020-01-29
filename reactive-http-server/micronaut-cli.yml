@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: reactive.http.server
+---
+testFramework: junit
+sourceLanguage: java
